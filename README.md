@@ -5,7 +5,7 @@ Program Author: Nuha Sheikh
 
 View UML Diagram of program: https://drive.google.com/file/d/1xJAo3J5baJsPliVwrKuj9op8UkxfA7Gr/view?usp=sharing
 
-Launch:
+Launch: (Linux Environment)
 1. In command prompt, navigate to the directory containing all the files (using cd command) 
 2. In command prompt, type "make"
 3. In command prompt, type "./project" and follow the menu instructions
