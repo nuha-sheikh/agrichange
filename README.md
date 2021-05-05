@@ -1,5 +1,5 @@
 # AgriChange
-A report generating program that reflects the endangered species in Canada by evaluating agriculture data sets from Statistics Canada 
+A report generating program that reflects the endangered species in Canada by evaluating agriculture data sets from Statistics Canada
 
 Program Author: Nuha Sheikh 
 
